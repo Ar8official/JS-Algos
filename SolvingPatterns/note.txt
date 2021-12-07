@@ -1,0 +1,8 @@
+PROBLEM SOLVING APPROACHES
+	Understand the Problem
+	Explore Concrete Examples
+	Break It Down
+	Solve/Simplify
+	Look Back and Refactor
+Note: many of these strategies are adapted from George Polya, whose book "How To Solve It" is a great resource for anyone who wants to become a better problem solver
+
